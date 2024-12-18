@@ -1,0 +1,22 @@
+{
+  "name": "@dead404code/tailwind-utilities",
+  "version": "1.0.0",
+  "main": "deadcode.tailwind.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeadCodeGames/tailwind-utils.git"
+  },
+  "keywords": [
+    "tailwind"
+  ],
+  "author": "Richard Kanshen @ DeadCodeGames <kanshen@mail.deadcode.is-a.dev> (https://deadcode.is-a.dev)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/DeadCodeGames/tailwind-utils/issues"
+  },
+  "homepage": "https://github.com/DeadCodeGames/tailwind-utils#readme",
+  "description": "a custom set of tailwind utilities that may or may not be useful to you :3"
+}
