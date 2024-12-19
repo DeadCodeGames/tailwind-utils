@@ -1,5 +1,5 @@
 # Tailwind Utils ××
-###### Version 1.0.0
+###### Version 1.0.1
 
 Welcome to the **Tailwind Utils** repository! This project provides a custom set of Tailwind CSS utilities that... may or may not be useful to you, but again, it's up to you if you use it or not :3 
 
