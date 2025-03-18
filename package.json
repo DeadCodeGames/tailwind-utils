@@ -1,6 +1,6 @@
 {
   "name": "@dead404code/tailwind-utilities",
-  "version": "1.0.1",
+  "version": "1.0.1-Patch",
   "main": "deadcode.tailwind.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
